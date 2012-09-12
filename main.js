@@ -3,9 +3,10 @@
 
 	var i;
 	var value;
-	var start = 0;
-	var end = 1000000;
-	var by= 10;
+
+	var start = 1;
+	var end = 10;
+	var by= 1;
 
 	value = start;
 
