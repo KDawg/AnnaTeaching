@@ -1,12 +1,12 @@
 
-(function() {
+function learnAdd() {
 
 	var i;
 	var value;
 
-	var start = 1;
-	var end = 10;
-	var by= 1;
+	var start = 0;
+	var end = 200;
+	var by = 10;
 
 	value = start;
 
@@ -17,4 +17,4 @@
 		value = value + by;
 	}
 
-}) ();
+}
